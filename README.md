@@ -1,40 +1,39 @@
-# 🧠 Raciocínio Algorítmico — Ciência da Computação
-
-Repositório dedicado aos exercícios e práticas desenvolvidos na disciplina de **Raciocínio Algorítmico**, do curso de **Ciência da Computação**. O material aqui presente reflete minha evolução contínua no desenvolvimento do pensamento lógico e na resolução de problemas através da programação.
-
-> ⚠️ **Repositório em constante atualização** — novos exercícios e práticas são adicionados regularmente ao longo do semestre, acompanhando o progresso da disciplina.
-
+# 🧠 Algorithmic Thinking — Computer Science
+ 
+Repository dedicated to exercises and practices developed in the **Algorithmic Thinking** course, part of the **Computer Science** degree. The material here reflects my continuous growth in logical thinking and problem-solving through programming.
+ 
+> ⚠️ **Constantly evolving repository** — new exercises and practices are added regularly throughout the semester, following the course's progress.
+ 
 ---
-
-## 🎯 Objetivo
-
-Este repositório tem como propósito registrar minha jornada de aprendizado nos fundamentos da computação, desde a lógica básica de programação até a construção de algoritmos mais elaborados. Cada arquivo representa um conjunto de desafios resolvidos em aula ou como prática, sempre com foco em desenvolver clareza de raciocínio e boas práticas de código.
-
+ 
+## 🎯 Purpose
+ 
+This repository aims to document my learning journey through the fundamentals of computing, from basic programming logic to the construction of more elaborate algorithms. Each file represents a set of challenges solved in class or as practice, always focused on developing clear reasoning and good coding habits.
+ 
 ---
-
-## 🛠️ Tecnologias Utilizadas
-
+ 
+## 🛠️ Technologies
+ 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+ 
 ---
-
-## 📚 Conteúdos Abordados
-
-À medida que a disciplina avança, os seguintes temas são cobertos:
-
-- ✅ Estruturas de repetição (`for`, `while`)
-- ✅ Validação e tratamento de entrada de dados
-- ✅ Vetores e listas — manipulação, busca e ordenação
-- ✅ Listas dinâmicas e métodos nativos do Python
-- ✅ Lógica condicional e operadores
-- 🔄 *Novos tópicos serão adicionados conforme o avanço da disciplina*
-
+ 
+## 📚 Topics Covered
+ 
+As the course progresses, the following subjects are addressed:
+ 
+- ✅ Loop structures (`for`, `while`)
+- ✅ Input validation and data handling
+- ✅ Arrays and lists — manipulation, search, and sorting
+- ✅ Dynamic lists and Python built-in methods
+- ✅ Conditional logic and operators
+- 🔄 *New topics will be added as the course advances*
 ---
-
-## 📁 Organização
-
-Os arquivos são nomeados de forma a refletir o tema ou número da aula correspondente, facilitando o acompanhamento da progressão:
-
+ 
+## 📁 Structure
+ 
+Files are named to reflect the topic or class number they correspond to, making it easy to follow the progression:
+ 
 ```
 📦 array_exercises
  ┣ 📜 exercicios_for.py
