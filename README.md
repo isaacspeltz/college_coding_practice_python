@@ -44,16 +44,3 @@ Os arquivos são nomeados de forma a refletir o tema ou número da aula correspo
 ```
 
 ---
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Ciência da Computação** no primeiro período, com grande interesse em resolver problemas e construir uma base sólida em algoritmos e estruturas de dados. Este repositório é uma das formas que encontrei de documentar meu crescimento técnico desde o início da graduação.
-
-Fique à vontade para explorar o código, acompanhar minha evolução ou entrar em contato!
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
