@@ -43,4 +43,3 @@ Os arquivos são nomeados de forma a refletir o tema ou número da aula correspo
  ┗ 📜 exercicios07_listas.py
 ```
 
----
