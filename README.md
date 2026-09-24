@@ -44,17 +44,3 @@ Files are named to reflect the topic or class number they correspond to, making 
  ┣ 📜 pratica_matrizes_python.py
  ┗ 📜 exercicios_08_funcoes_python.py
 ```
-
----
-
-## About Me
-
-I'm a first-year **Computer Science** student with a strong interest in problem-solving and building a solid foundation in algorithms and data structures. This repository is one of the ways I found to document my technical growth from the very beginning of my degree.
-
-Feel free to explore the code, follow my progress, or reach out!
-
----
-
-## Contact
-
-E-mail: ic.mor007@gmail.com
