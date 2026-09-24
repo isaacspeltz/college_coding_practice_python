@@ -1,24 +1,22 @@
-# 🧠 Algorithmic Thinking — Computer Science
+# Algorithmic Thinking — Computer Science
 
 Repository dedicated to exercises and practices developed in the **Algorithmic Thinking** course, part of the **Computer Science** degree. The material here reflects my continuous growth in logical thinking and problem-solving through programming.
 
-> ⚠️ **Constantly evolving repository** — new exercises and practices are added regularly throughout the semester, following the course's progress.
-
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository aims to document my learning journey through the fundamentals of computing, from basic programming logic to the construction of more elaborate algorithms. Each file represents a set of challenges solved in class or as practice, always focused on developing clear reasoning and good coding habits.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 As the course progresses, the following subjects are addressed:
 
@@ -29,7 +27,6 @@ As the course progresses, the following subjects are addressed:
 - ✅ Conditional logic and operators
 - ✅ Matrices — creation, traversal, row/column operations, and diagonal handling
 - ✅ Functions — parameters, return values, and code reuse
-- 🔄 *New topics will be added as the course advances*
 
 ---
 
@@ -50,7 +47,7 @@ Files are named to reflect the topic or class number they correspond to, making 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a first-year **Computer Science** student with a strong interest in problem-solving and building a solid foundation in algorithms and data structures. This repository is one of the ways I found to document my technical growth from the very beginning of my degree.
 
@@ -58,6 +55,6 @@ Feel free to explore the code, follow my progress, or reach out!
 
 ---
 
-## 📬 Contact
+## Contact
 
 E-mail: ic.mor007@gmail.com
